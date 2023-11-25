@@ -1,7 +1,16 @@
 {
-    "folders": [
-        {
-            "path": "./singlethread",
-        }
-    ]
+  "folders": [
+    {
+      "path": "./singlethread",
+      "name": "singlethread"
+    },
+    {
+      "path": "./multithread",
+      "name": "multithread"
+    },
+    {
+      "path": "./graceful-shutdown",
+      "name": "graceful-shutdown"
+    }
+  ]
 }
